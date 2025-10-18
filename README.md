@@ -1,10 +1,11 @@
-# Hey, I'm Nick! 👋
-<!--
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nsfogg&show_icons=true&theme=tokyonight" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsfogg&layout=compact&theme=tokyonight" />
--->
+## Hey, I'm Nick! 👋
+- I'm currently a web developer @ Prometheus Group
+- I'm currently working on a semantic search engine using AI vectorizations
+###
+Feel free to reach out to me at nicksfogg@gmail.com!
+###
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsfogg&layout=donut&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;
-![Stats](https://github-readme-stats.vercel.app/api?username=nsfogg&show_icons=true&theme=tokyonight)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
