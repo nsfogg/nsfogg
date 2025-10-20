@@ -1,5 +1,5 @@
 ## Hey, I'm Nick! 👋
-- I'm currently a web developer @ Prometheus Group
+- I'm a software engineer @ Prometheus Group
 - I'm currently working on a semantic search engine using AI vectorizations
 ###
 Feel free to reach out to me at nicksfogg@gmail.com!
